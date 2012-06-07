@@ -1,3 +1,7 @@
 esta carpeta se creo por no tener variable entorno HOME definida. Lo creo eclipse al clonarme el repositorio de gitHub llamado "fronar"
 
-ECLIPSE
+añadido from GITHUB
+
+a�adido por Eclipse II
+
+añadido por GIT HUB II
