@@ -2,4 +2,6 @@ esta carpeta se creo por no tener variable entorno HOME definida. Lo creo eclips
 
 GITHUB UPDATED OTRA VEZ
 
-ECLIPSE UPDATED
+ECLIPSE
+
+GITHUB EDITA
